@@ -10,4 +10,4 @@
 - HTML
 - CSS
 
-<img src="images/image.png">
+<img src="images/image.png" height="100" width="350">
