@@ -9,3 +9,5 @@
 ## Tech stack used:
 - HTML
 - CSS
+
+<img src="images/image.png">
